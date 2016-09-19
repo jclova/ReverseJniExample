@@ -1,0 +1,1 @@
+ndk-build NDK_APP_DST_DIR="../../app/src/main/jniLibs/\$(TARGET_ARCH_ABI)"
